@@ -1,5 +1,5 @@
-## Visual Studio Code常用快捷鍵:
-### python-docx是一個函式庫，它被設計用來建立與更新副檔名為docx的Microsoft Word文件。從這裡也可以看到Python具有強大的第三方函式庫支援，可以完成各項不同的任務。
+## Python Study:
+### Visual Studio Code常用快捷鍵:
 
 ## 功能	快捷鍵
 1. 整行* 註解	Ctrl + K , Ctrl + C
@@ -7,6 +7,10 @@
 3. 整行* 刪除	Ctrl + Shift + K
 4. 整行* 上移 / 下移 一行	Alt + ↑ / ↓
 5. 整行* 在下方 / 在上方 複製貼上	Alt + Shift + ↑ / ↓
+6. Alt + ↑ 或 Alt + ↓ 快速移動整行程式碼
+7. 縮排* Shift + Tab
+8. 一次性更改變數名稱：游標移至變數 + F2
+
 
 
 ## Use
